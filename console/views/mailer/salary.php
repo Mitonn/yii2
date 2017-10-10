@@ -1,0 +1,1 @@
+<h1>Dear <?php echo $subscriber['email'] ?> you got $500 <?php echo $time ?></h1>
